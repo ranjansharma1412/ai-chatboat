@@ -1,0 +1,27 @@
+{
+  "name": "react-native-ai-chatboat",
+  "version": "1.0.0",
+  "description": "It is react native webview ai chatboat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranjansharma1412/ai-chatboat.git"
+  },
+  "keywords": [
+    "chatboat"
+  ],
+  "author": "Ranjan sharma",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.71.6",
+    "react-native-webview":"12.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/ranjansharma1412/ai-chatboat/issues"
+  },
+  "homepage": "https://github.com/ranjansharma1412/ai-chatboat#readme"
+}
