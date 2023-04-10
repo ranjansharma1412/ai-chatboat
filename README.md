@@ -1,0 +1,1 @@
+It is a webview AI Chat-boat, and you can integrate in your react native project
